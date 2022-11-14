@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1013691781209",
+    "project_id": "mykfcapp-15cfb",
+    "storage_bucket": "mykfcapp-15cfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013691781209:android:ac4e5ef9ebbe097bba2148",
+        "android_client_info": {
+          "package_name": "com.example.mykfcapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013691781209-f6a5lro91452nclij3hc1vvbr9au5v6g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mykfcapp",
+            "certificate_hash": "6ed28d7ce762b3b58de511b566c5132793240f70"
+          }
+        },
+        {
+          "client_id": "1013691781209-qhn4hfka9hp8jscgifcr36pb3o0l2drs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfURZaqL2LnJg-y4UHA7Eq8fCoQ63biE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013691781209-qhn4hfka9hp8jscgifcr36pb3o0l2drs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
